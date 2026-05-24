@@ -11,7 +11,7 @@ create table member
     primary key (id)
 );
 
-insert into member values (null, 'smith', md5('123'), '110110', 'xx@xx.com', 1);
+    insert into member values (null, 'smith', md5('123'), '110110', 'xx@xx.com', 1);
 select * from member;
 
 insert into member(name, pwd, mobile, email, gender)

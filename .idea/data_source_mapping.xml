@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/account.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_attr.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_attr_attrgroup_relation.sql" value="f3a625d2-57c6-4efd-a587-9dde9937d8b1" />
+    <file url="file://$PROJECT_DIR$/commodity_attrgroup.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_brand.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_category.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_category_brand_relation.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/commodity_spu_info.sql" value="f3a625d2-57c6-4efd-a587-9dde9937d8b1" />
+    <file url="file://$PROJECT_DIR$/living.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/order.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/order_micro_service.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" value="f3a625d2-57c6-4efd-a587-9dde9937d8b1" />
+    <file url="file://$PROJECT_DIR$/storage.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+    <file url="file://$PROJECT_DIR$/t_order.sql" value="f3a625d2-57c6-4efd-a587-9dde9937d8b1" />
+    <file url="file://$PROJECT_DIR$/../../program/seata-server-0.9.0/seata/conf/db_store.sql" value="a25af53d-64ad-4095-80e1-a7b83d148216" />
+  </component>
+</project>

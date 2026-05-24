@@ -1,0 +1,1 @@
+update storage set amount=amount - 1 where product_id = 1;
